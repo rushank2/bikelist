@@ -4,9 +4,7 @@
 
 This is a MERN stack application. It is a small app that includes creating an account, authentication and creating, updating and deleting bikes.
 
-```
 [https://bike-list.herokuapp.com](https://bike-list.herokuapp.com)
-```
 
 ### Technologies
 
